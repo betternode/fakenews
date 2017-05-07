@@ -8,5 +8,5 @@ build:hello:
   - npm --version
   - npm install
   - npm install -g @angular/cli 
+  - ng --version
   - ng build --aot true --environment prod
-  
