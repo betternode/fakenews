@@ -1,0 +1,9 @@
+image: node:latest
+
+build:hello:
+  stage: build
+  script:
+  - apt-get update -qq && apt-get install -y -qq tree
+  - node --version
+  - npm --version
+  - npm install
