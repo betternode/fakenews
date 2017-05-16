@@ -2,3 +2,10 @@ body {
     margin-left: 10px;
     margin-right: 10px;
 }
+#jesus
+{
+  width: 90%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
