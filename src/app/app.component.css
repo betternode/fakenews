@@ -5,6 +5,7 @@ body {
 #jesus
 {
   width: 90%;
+  min-height: auto;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
